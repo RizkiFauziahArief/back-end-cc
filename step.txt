@@ -1,0 +1,21 @@
+> sqlite3 db.sqlite
+SQLite version 3.42.0 2023-05-16 12:36:15
+Enter ".help" for usage hints.
+sqlite> .tables (untuk melihat tabel)
+...
+sqlite> SELECT * FROM user; (untuk melihat isi tabel)
+...
+sqlite> DELETE FROM USER; (menghapus isi table)
+
+
+instal python
+instal sqlite
+instal flask > pip install Flask
+instal Flask_SQLAlchemy > pip install Flask-SQLAlchemy
+instal Werkzeug > pip install Werkzeug
+instal jwt > pip install PyJWT
+
+Github
+git remote add origin https://github.com/RizkiFauziahArief/back-end-cc.git
+git branch -M main
+git push -u origin main
